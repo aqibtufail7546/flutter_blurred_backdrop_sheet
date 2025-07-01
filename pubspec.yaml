@@ -1,6 +1,6 @@
 name: blurred_backdrop_sheet
 description: A beautiful and customizable blurred backdrop sheet for Flutter apps. Easily show bottom sheets with blur effects, headers, list tiles, and actions.
-version: 0.0.1
+version: 0.0.3
 homepage:
 
 environment:

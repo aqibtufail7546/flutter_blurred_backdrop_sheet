@@ -15,6 +15,17 @@ A **beautiful**, **minimal** bottom sheet with blur backdrop effect for Flutter.
 - 📱 **Material 3** and iOS design support
 - 🎭 **Pre-built components** for common use cases
 
+## 📱 Screenshots
+
+![Demo Screenshot](images/sevem.png)
+![Demo Screenshot](images/one.png)
+![Demo Screenshot](images/two.png)
+![Demo Screenshot](images/three.png)
+![Demo Screenshot](images/four.png)
+![Demo Screenshot](images/five.png)
+![Demo Screenshot](images/six.png)
+
+
 
 ## 🚀 Quick Start
 
@@ -190,10 +201,10 @@ MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Support
 
-- 📝 [Documentation](https://pub.dev/documentation/blurred_backdrop_sheet/latest/)
-- 🐛 [Issues](https://github.com/yourusername/blurred_backdrop_sheet/issues)
+- 📝 [Documentation](https://pub.dev/packages/blurred_backdrop_sheet)
+- 🐛 [Issues](https://github.com/aqibtufail7546/flutter_blurred_backdrop_sheet)
 - 💬 [Discussions](https://github.com/aqibtufail7546)
 
 ---
 
-**Made with ❤️ for the Flutter community**
+**Made from Muhammad Aqib for the Flutter community**
